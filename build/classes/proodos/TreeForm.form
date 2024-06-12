@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.7" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="0" max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" pref="713" max="-2" attributes="0"/>
+              <EmptySpace pref="217" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane2" pref="519" max="32767" attributes="0"/>
+              <EmptySpace pref="74" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTree" name="jTree2">
+          <Properties>
+            <Property name="model" type="javax.swing.tree.TreeModel" editor="org.netbeans.modules.form.editors2.TreeModelEditor">
+              <TreeModel code="&#x392;&#x391;&#x3a3;&#x397; &#x394;&#x395;&#x394;&#x39f;&#x39c;&#x395;&#x39d;&#x3a9;&#x39d;&#xa; &#x3a0;&#x399;&#x39d;&#x391;&#x39a;&#x395;&#x3a3;&#xa;  &#x3a3;&#x3c4;&#x3bf;&#x3b9;&#x3c7;&#x3b5;&#x3af;&#x3b1; &#x395;&#x3c1;&#x3b3;&#x3b1;&#x3b6;&#x3bf;&#x3bc;&#x3ad;&#x3bd;&#x3c9;&#x3bd;&#xa;  &#x3a0;&#x3c1;&#x3cc;&#x3c3;&#x3b8;&#x3b5;&#x3c4;&#x3b1; &#x3a3;&#x3c4;&#x3bf;&#x3b9;&#x3c7;&#x3b5;&#x3af;&#x3b1; &#x395;&#x3c1;&#x3b3;&#x3b1;&#x3b6;&#x3bf;&#x3bc;&#x3ad;&#x3bd;&#x3c9;&#x3bd;&#xa;  &#x3a4;&#x3cd;&#x3c0;&#x3bf;&#x3c2; &#x395;&#x3c1;&#x3b3;&#x3b1;&#x3b6;&#x3bf;&#x3bc;&#x3ad;&#x3bd;&#x3c9;&#x3bd;&#xa;      &#xa;  &#x3a4;&#x3b7;&#x3bb;&#x3ad;&#x3c6;&#x3c9;&#x3bd;&#x3b1; &#x395;&#x3c1;&#x3b3;&#x3b1;&#x3b6;&#x3bf;&#x3bc;&#x3ad;&#x3bd;&#x3c9;&#x3bd;&#xa;      &#xa;  Email &#x395;&#x3c1;&#x3b3;&#x3b1;&#x3b6;&#x3bf;&#x3bc;&#x3ad;&#x3bd;&#x3c9;&#x3bd;&#xa;     &#xa;  &#x397;&#x3bc;&#x3b5;&#x3c1;&#x3bf;&#x3bc;&#x3b7;&#x3bd;&#x3af;&#x3b5;&#x3c2; &#x3c0;&#x3c1;&#x3bf;&#x3c3;&#x3bb;&#x3ae;&#x3c8;&#x3b5;&#x3c9;&#x3bd;/&#x3b1;&#x3c0;&#x3bf;&#x3bb;&#x3cd;&#x3c3;&#x3b5;&#x3c9;&#x3bd;&#xa;    &#xa;  &#x39c;&#x3b9;&#x3c3;&#x3b8;&#x3bf;&#x3af; &#x3b5;&#x3c1;&#x3b3;&#x3b1;&#x3b6;&#x3bf;&#x3bc;&#x3ad;&#x3bd;&#x3c9;&#x3bd;&#xa;    &#xa;  &#x399;&#x3c3;&#x3c7;&#x3cd;&#x3c2; &#x3bc;&#x3b9;&#x3c3;&#x3b8;&#x3ce;&#x3bd;&#xa;   &#xa;  &#x391;&#x3c0;&#x3bf;&#x3b4;&#x3bf;&#x3c7;&#x3ad;&#x3c2; &#xa;      &#xa;  &#x386;&#x3b4;&#x3b5;&#x3b9;&#x3b5;&#x3c2;/&#x386;&#x3c3;&#x3b8;&#x3b5;&#x3bd;&#x3b5;&#x3b9;&#x3b5;&#x3c2;&#xa;   &#xa;  &#x395;&#x3be;&#x3bf;&#x3c5;&#x3c3;&#x3b9;&#x3bf;&#x3b4;&#x3bf;&#x3c4;&#x3b7;&#x3bc;&#x3ad;&#x3bd;&#x3bf;&#x3b9; &#x3c7;&#x3c1;&#x3ae;&#x3c3;&#x3c4;&#x3b5;&#x3c2;&#xa;    &#xa;  &#xa; &#xa;&#xa;&#xa;"/>
+            </Property>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Default Cursor"/>
+            </Property>
+            <Property name="dropMode" type="javax.swing.DropMode" editor="org.netbeans.modules.form.editors.EnumEditor">
+              <Value id="ON"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jTree2MouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
